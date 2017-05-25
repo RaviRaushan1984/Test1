@@ -1,0 +1,52 @@
+RTGSL.KYC.AuthenticationService
+RTGSL.KYC.FetchService
+RTGSL.KYC.UpdateService
+
+
+
+RTGSL.AAW.DocumentService
+RTGSL.AAW.FetchService
+RTGSL.AAW.UpdateService
+
+
+Add Web refrence 
+http://www.investmentz.com/
+http://www.investmentz.com/TAWFeed.asmx
+ContentFeed
+
+
+Add Service Ref
+http://localhost:501/BankFundService/Service.asmx
+http://192.168.178.15/BOI_FUND_Service/Service.asmx
+BOIFundService
+
+FeedServer IP/TCPPort
+192.168.177.27 4510
+192.168.178.13 6010
+
+
+91-512-2572553
+0512 257 0301
+RollNO 3203263
+
+Survelliance for 209
+http://192.168.177.209:90/
+
+Selected Risk Profile has been created successfully for Client: XXXX and details have been sent to Registered EmailID.
+
+New Risk profile details have been sent to your registered Email ID and created successfully.
+
+SMTP Server outlook.office365.com
+Incomming Mail Port 993
+outgoing mail Port  587
+
+Survilliance 2.3 25 version3
+http://192.168.184.134:90/
+http://99588ab18d
+
+ACML Live Urls for Feed and Service
+feed : - Feed.investmentz.com port 80
+trading : Trading.investmentz.com
+Service : Services.investmentz.com port 80
+
+
